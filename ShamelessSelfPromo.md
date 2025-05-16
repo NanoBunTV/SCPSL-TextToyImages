@@ -30,7 +30,7 @@ spawntoy text <size=0.5><line-height=100%><mspace=0.56em><color=#FFFFFF>██�
 spawntoy text <size=5><color=#FF0000>t</color><color=#FF5000>w</color><color=#FFA100>i</color><color=#FFF100>t</color><color=#BBFF00>c</color><color=#6BFF00>h</color><color=#1AFF00>.</color><color=#00FF35>t</color><color=#00FF86>v</color><color=#00FFD6>/</color><color=#00D6FF>N</color><color=#0086FF>a</color><color=#0035FF>n</color><color=#1A00FF>o</color><color=#6B00FF>B</color><color=#BB00FF>u</color><color=#FF00F1>n</color><color=#FF00A1>T</color><color=#FF0050>V</color>
 ```
 </details>
-<picture><img src="/ScreenshotExamples/TwitchTV NanoBunTV.png" height="300"/></picture>
+<picture><img src="/ScreenshotExamples/TwitchTV NanoBunTV.png" height="80"/></picture>
 
 ## [Team Nakama Vibes](https://nakamavibes.com) Icon
 <details>
