@@ -11,3 +11,13 @@ spawntoy text <size=4><b><color=#FF0044>C</color><color=#EB0752>e</color><color=
 ```
 </details>
 <picture><img src="/ScreenshotExamples/Certified Northwood Moment.png" height="80"/></picture>
+
+## Small Rainbow "balls" Text
+<details>
+<summary><i>Click to reveal command</i></summary>
+
+```
+spawntoy text <size=2><b><i><color=#FF0000>b</color><color=#CBFF00>a</color><color=#00FF66>l</color><color=#0065FF>l</color><color=#CC00FF>s</color></i></b>
+```
+</details>
+<picture><img src="/ScreenshotExamples/Rainbow Balls Text.png" height="80"/></picture>
