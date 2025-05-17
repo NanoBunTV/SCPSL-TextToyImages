@@ -6,6 +6,8 @@
 <a href="https://ko-fi.com/nanobuntv" target="_blank"><img alt="Ko-fi Badge" src="https://img.shields.io/badge/Donate-Ko--fi-ff5e5b?style=flat&logo=kofi&logoColor=white&link=https%3A%2F%2Fko-fi.com%2Fnanobuntv"></a>
 </p>
 
+<p align="center">A list of pre-made commands to spawn some silly images in SCP: Secret Laboratory</p>
+
 </br>
 
 <h1 align="center"><a href="Images.md">▶ Click here for pre-made image commands ◀</a></h1>
@@ -22,7 +24,7 @@
 
 </br>
 
-<h2 align="center">Tutorial on how to make and spawn your own custom images:</h2>
+<h2 align="center">Tutorial on how to make and spawn your own custom images</h2>
 <h3 align="center"><a href="https://www.youtube.com/watch?v=b6kQ0jmKXdE" target="_blank">youtu.be/b6kQ0jmKXdE</a></h3>
 
 [![VideoThumbnail](https://github.com/user-attachments/assets/0370dcfd-f7bd-481b-847e-a5ebe51b9333)](https://www.youtube.com/watch?v=b6kQ0jmKXdE)
